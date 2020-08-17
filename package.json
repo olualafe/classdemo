@@ -1,0 +1,26 @@
+{
+  "name": "nodejsci",
+  "version": "1.0.0",
+  "description": "a simple nodejs app that should calculate entry point",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olualafe/classdemo.git"
+  },
+  "keywords": [
+    "nodejs",
+    "docker",
+    "jenkins",
+    "mycloudseries",
+    "pipeline"
+  ],
+  "author": "olu alafe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olualafe/classdemo/issues"
+  },
+  "homepage": "https://github.com/olualafe/classdemo#readme"
+}
